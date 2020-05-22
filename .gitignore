@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# hac-game-lib specifics
+# We recommend using the git version of the hac-game-lib and link it in this folder.
+gamelib
